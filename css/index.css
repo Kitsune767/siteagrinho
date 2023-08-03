@@ -1,0 +1,18 @@
+#header-text-2 .bg {
+    background-image: url('../images/uploaded/3/TE_9.jpg');
+    background-repeat: no-repeat;
+    background-position: center bottom;
+    background-size: cover;
+    opacity:1;
+}#benefits-4col-7 .bg-wrap {
+    background-color: #F4F5F6;
+}
+
+
+#benefits-4col-7 .bg {
+    background-image: url('../images/bg-pattern-3.png');
+    background-repeat: repeat;
+    background-position: center;
+    background-size: 50px 50px;
+    opacity:0.075;
+}
